@@ -1,4 +1,3 @@
 services:
   hello-world:
-    container_name: hello-world
     build: ../cont/hello-world
